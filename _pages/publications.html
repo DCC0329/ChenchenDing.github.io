@@ -5,32 +5,66 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Who I am
 
-{% include base_path %}
+I'm **Chenchen Ding**, a Master’s student in the **EOI** program at the **Nelson Institute** (Expected graduation: August 2026).  
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+My work sits at the intersection of **remote sensing**, **geospatial data science**, and **environmental monitoring**. 
 
+Before joining UW–Madison, I completed a B.Eng. and M.Eng. in Petroleum Engineering at the **China University of Petroleum (Beijing)**, where I worked on forecasting of natural gas demand using machine learning and LSTM models. My technical background in modeling and industry applications now supports my transition toward environmental remote sensing and Earth observation science.
+
+---
+
+## Academic background
+
+At UW–Madison, the EOI program gives me the chance to combine:
+
+- satellite data (MODIS, Landsat, Sentinel-1/2, GEDI, CYGNSS)  
+- deep learning and statistical modeling  
+- and real environmental questions about vegetation, disturbance, and water.
+
+---
+
+## Current Research
+### **Surface Water & Wetland Dynamics from Multisensor Observations**
+I work on remote sensing of surface water using **GNSS-R (CYGNSS)**, **Sentinel-1 SAR**, **MODIS**, and **DEM** data. My focus is on:
+
+- Fusing GNSS-R and SAR observations to estimate sub-pixel water fractions  
+- Developing daily global surface-water time series from 2018–2025  
+- Designing scalable, reproducible HPC workflows for large geospatial datasets  
+
+
+### **Machine Learning Marathon 2025 — Biodiversity Image Clustering**
+I am also participating in a machine learning marathon, working on:
+
+- Unsupervised representation learning with contrastive embeddings  
+- Large-scale clustering and visual embedding analysis  
+
+---
+
+## How I work
+
+I’m most comfortable in **Python**, working with things like:
+
+- large raster datasets  
+- high-performance / cluster environments  
+- tiling pipelines and batch processing  
+- ML workflows (from feature engineering to model evaluation and explainability).
+
+I also enjoy the early “messy” parts of a project: figuring out how to get data into a sane format, understanding what each variable really means, and checking whether our assumptions make sense before running big models.
+
+---
+
+## Previous Research and Industry Experience
+
+### **Oil & Gas Sector (China National Aviation Fuel Group, Sinopec, PipeChina)**  
+Before transitioning to environmental science, I worked on:
+
+- Emergency response system development for oil pipelines  
+- Reliability analysis of China’s natural gas pipeline networks  
+- LSTM-based daily gas demand forecasting  
+- User classification and predictive modeling for pipeline operations  
+
+These experiences gave me a strong foundation in data analysis, modeling, and engineering workflows—skills.
 
 

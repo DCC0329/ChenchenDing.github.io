@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " Hi, I'm Chenchen Ding 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I'm Chenchen Ding 👋
 
 I am a Master's student in the **Environmental Observation & Informatics (EOI)** program at the **Nelson Institute for Environmental Studies, University of Wisconsin–Madison**.  
 My work focuses on **remote sensing, geospatial data science, machine learning, and environmental monitoring**.

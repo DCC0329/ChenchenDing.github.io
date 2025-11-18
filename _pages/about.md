@@ -35,20 +35,16 @@ Training deep-learning segmentation models (U-Net, DeepLabV3+) on SAR imagery fo
 ## Technical Skills
 
 ### **Analytical Tools**
-- Python (proficient), MATLAB (familiar), R (familiar), C (familiar)
-- Linux/bash scripting (familiar)
-- ENVI (proficient), ArcGIS / QGIS (proficient)
-- AutoCAD (proficient)
+- Python, MATLAB, R, C, Linux scripting
+- ENVI, ArcGIS pro / QGIS, AutoCAD (proficient)
 
 ### **Remote Sensing & Data Fusion**
-- Experience with multi-sensor fusion: **CYGNSS × Sentinel-1 × MODIS × DEM** for flood/water mapping and environmental monitoring.
 
 ### **Large-Scale Data Processing**
-- High-performance computing (HPC), cluster computing, large raster processing, and geospatial tiling workflows.
+- HPC, cluster computing,geospatial tiling.
 
 ### **Machine Learning & Deep Learning**
-- Random Forest (RF), SVM, XGBoost  
-- CNN, RNN, LSTM  
+- Random Forest, SVM, XGBoost,CNNs, LSTMs, U-Net, Transformer-based architectures
 - Model explainability: Permutation importance, SHAP
 
 ### **Field & Ground Truthing**

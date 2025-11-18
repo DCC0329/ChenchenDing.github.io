@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Environmental Observation & Informatics**, University of Wisconsin–Madison  
+  *Expected Graduation: Aug 2026*  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **M.Eng. in Petroleum Engineering**, China University of Petroleum (Beijing)  
+  *2018 – 2022*  
+  *Thesis: LSTM-Based Prediction of Daily Natural Gas Demand*  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.Eng. in Petroleum Engineering**, China University of Petroleum (Beijing)  
+  *2014 – 2018*  
+  *Thesis: Machine Learning Approaches to Long-Term NG Demand Forecasting*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
+### **Earlier Research**
+- **Oil Pipeline Emergency Response System Development**, Sinopec (2019–2020)  
+- **Reliability Analysis of NG Pipeline Networks**, PipeChina (2020–2021)  
+- **Daily Natural Gas Forecasting using LSTM**, CUPB (B.S. & M.Eng. theses)
+
+---
+
+## Working Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Petroleum Engineer**, China National Aviation Fuel Group — Beijing  
+*Aug 2022 – Mar 2025*
+
+**University Archives & Data Administration Specialist**, CUPB  
+*Sep 2018 – Sep 2020*
+
+---
+

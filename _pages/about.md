@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Hi, I'm Chenchen Ding 👋"
+title: " Hi, I'm Chenchen Ding "
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,10 +17,8 @@ I am broadly interested in using satellite observations and data-driven approach
 
 ## Research Interests
 - Remote sensing (optical & SAR)  
-- Geospatial analysis & large-scale environmental datasets  
-- Machine learning for Earth observation  
+- AI for Earth observation  
 - Vegetation dynamics & climate drivers  
-- Land cover / land use change  
 - Wetland and surface water detection  
 
 ---
@@ -35,13 +33,31 @@ Training deep-learning segmentation models (U-Net, DeepLabV3+) on SAR imagery fo
 ---
 
 ## Technical Skills
-- **Programming:** Python, R, C
-- **Earth Observation:** MODIS, Landsat, Sentinel-1/2, GEDI, CYGNSS  
-- **GIS & Remote Sensing Tools:** ENVI, Arcgis Pro, Google Earth Engine,
-- **Data Processing:** large-scale raster processing, tiling, HPC workflows  
+
+### **Analytical Tools**
+- Python (proficient), MATLAB (familiar), R (familiar), C (familiar)
+- Linux/bash scripting (familiar)
+- ENVI (proficient), ArcGIS / QGIS (proficient)
+- AutoCAD (proficient)
+
+### **Remote Sensing & Data Fusion**
+- Experience with multi-sensor fusion: **CYGNSS × Sentinel-1 × MODIS × DEM** for flood/water mapping and environmental monitoring.
+
+### **Large-Scale Data Processing**
+- High-performance computing (HPC), cluster computing, large raster processing, and geospatial tiling workflows.
+
+### **Machine Learning & Deep Learning**
+- Random Forest (RF), SVM, XGBoost  
+- CNN, RNN, LSTM  
+- Model explainability: Permutation importance, SHAP
+
+### **Field & Ground Truthing**
+- Field survey design  
+- UAV (drone) data collection and processing
+
 
 ---
 
-If you are interested in my work or would like to connect, feel free to reach out via email or LinkedIn.  
-Thanks for visiting my website!
+If you are interested in my work or would like to connect, feel free to reach out via email or LinkedIn.Thanks for stopping by!  
+
 

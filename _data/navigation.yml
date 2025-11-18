@@ -11,14 +11,14 @@ main:
   - title: "About Me"
     url: /about/
 
-  #- title: "Projects"
-  #  url: /talks/    
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "News"
-    url: /News/    　
-    
- # - title: "Portfolio"
- #   url: /portfolio/
+    url: /news/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -31,3 +31,4 @@ main:
     
   - title: "Honors and Awards"
     url: /markdown/
+

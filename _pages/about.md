@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am a Master's student in the **Environmental Observation & Informatics (EOI)** program at the **Nelson Institute for Environmental Studies, University of Wisconsin–Madison**.  
-My work focuses on **remote sensing, geospatial data science, machine learning, and environmental monitoring**.
+I am a Master's student in the Environmental Observation & Informatics (EOI) program at the Nelson Institute for Environmental Studies, University of Wisconsin–Madison.  
+My work focuses on **remote sensing, geospatial data science, Deep learning, and environmental monitoring**.
 
 I am broadly interested in using satellite observations and data-driven approaches to understand how landscapes changes. My recent projects span wetland hydrology, and SAR-based environmental mapping.
 

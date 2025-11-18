@@ -35,10 +35,9 @@ Training deep-learning segmentation models (U-Net, DeepLabV3+) on SAR imagery fo
 ---
 
 ## Technical Skills
-- **Programming:** Python, R
+- **Programming:** Python, R, C
 - **Earth Observation:** MODIS, Landsat, Sentinel-1/2, GEDI, CYGNSS  
-- **GIS & Remote Sensing Tools:** QGIS, Google Earth Engine, RasterIO  
-- **Machine Learning:** Random Forest, XGBoost, deep learning segmentation  
+- **GIS & Remote Sensing Tools:** ENVI, Arcgis Pro, Google Earth Engine,
 - **Data Processing:** large-scale raster processing, tiling, HPC workflows  
 
 ---

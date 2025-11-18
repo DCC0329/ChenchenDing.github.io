@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * **M.S. in Environmental Observation & Informatics**, University of Wisconsin–Madison  
   *Expected Graduation: Aug 2026*  
 
@@ -32,7 +31,6 @@ redirect_from:
 ---
 
 ## Working Experience
-======
 **Petroleum Engineer**, China National Aviation Fuel Group — Beijing  
 *Aug 2022 – Mar 2025*
 

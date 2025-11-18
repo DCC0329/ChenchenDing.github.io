@@ -13,10 +13,10 @@ title                    : "Chenchen Ding"
 title_separator          : "-"
 name                     : &name "Chenchen Ding"
 description              : &description "Hi,this is the page of Chenchen"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://dcc0329.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/ChenchenDing.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : "https://dcc0329.github.io"   # 你的 GitHub 用户主页
+baseurl                  : "/ChenchenDing.github.io"     # 注意前面有 /，后面没有 /
+repository               : "DCC0329/ChenchenDing.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

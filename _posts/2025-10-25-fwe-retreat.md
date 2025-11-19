@@ -8,7 +8,8 @@ tags:
   - Retreat
 ---
 
-We just wrapped up the second annual **FWE Retreat** at **Kemp Natural Resources Station**, and it was truly a great weekend in the North Woods, the retreat offered exactly what we all needed — time to connect, reset, and enjoy nature together.
+We just wrapped up the second annual FWE Retreat at the [Kemp Natural Resources Station](https://kemp.wisc.edu). It was a really nice weekend in the North Woods. The retreat gave everyone a chance to slow down, catch up with each other, and enjoy being outside.
+
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/images/retreat.png"
        alt="FWE Retreat 2025"

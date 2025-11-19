@@ -6,29 +6,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
 
+I am a Master's student in the [Environmental Observation & Informatics (EOI) program](https://nelson.wisc.edu/graduate/professional-programs/environmental-observation-and-informatics/) at the Nelson Institute for Environmental Studies, University of Wisconsin–Madison. My work focuses on **remote sensing, geospatial data science, deep learning, and environmental monitoring**.
 
-I am a Master's student in the Environmental Observation & Informatics (EOI) program at the Nelson Institute for Environmental Studies, University of Wisconsin–Madison.  
-My work focuses on **remote sensing, geospatial data science, Deep learning, and environmental monitoring**.
+I am particularly interested in using satellite observations and machine-learning methods to track environmental change. My recent work spans wetland hydrology, landscape dynamics, and SAR-based mapping.
 
-I am broadly interested in using satellite observations and data-driven approaches to understand how landscapes changes. My recent projects span wetland hydrology, and SAR-based environmental mapping.
+</div>
 
 ---
 
 ## Research Interests
-- Remote sensing (optical & SAR)  
 - AI for Earth observation  
-- Vegetation dynamics & climate drivers  
 - Wetland and surface water detection  
 
 ---
 
 ## Current Projects
-### **• Global Wetland Detection Using CYGNSS & Sentinel-1**
-Developing water fraction models using CYGNSS reflectivity and SAR-based water masks. Exploring sampling, uncertainty, and global wetland seasonality.
+### **• Global Wetland Detection**
+<div style="text-align: justify;">
+Training deep-learning segmentation models (U-Net, DeepLabV3+) for flood mapping using the [MMFlood dataset](https://zenodo.org/records/6534637).
+</div>
 
-### **• SAR-Based Flood Segmentation**
-Training deep-learning segmentation models (U-Net, DeepLabV3+) on SAR imagery for flood mapping using the MMFlood dataset.
+### **• Flood Segmentation**
+<div style="text-align: justify;">
+Training deep-learning segmentation models (U-Net, DeepLabV3+) for flood mapping using the [MMFlood dataset](https://zenodo.org/records/6534637).
+</div>
+
+**[Machine Learning Marathon 2025](https://ml-marathon.wisc.edu)** 
+<div style="text-align: justify;">
+Hackathon focused on clustering the BioTrove Dataset for an unsupervised pipeline to recover species, genus, and family structure from images using contrastive embeddings and hierarchical clustering.
+</div>
+
 
 ---
 
@@ -36,15 +45,14 @@ Training deep-learning segmentation models (U-Net, DeepLabV3+) on SAR imagery fo
 
 ### **Analytical Tools**
 - Python, MATLAB, R, C, Linux scripting
-- ENVI, ArcGIS pro / QGIS, AutoCAD (proficient)
-
-### **Remote Sensing & Data Fusion**
+- ENVI, ArcGIS pro, QGIS, AutoCAD
 
 ### **Large-Scale Data Processing**
 - HPC, cluster computing,geospatial tiling.
-
+- Remote Sensing & Data Fusion.
+  
 ### **Machine Learning & Deep Learning**
-- Random Forest, SVM, XGBoost,CNNs, LSTMs, U-Net, Transformer-based architectures
+- RF, SVM, XGBoost, CNNs, LSTMs, U-Net, Transformer-based architectures
 - Model explainability: Permutation importance, SHAP
 
 ### **Field & Ground Truthing**

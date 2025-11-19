@@ -28,8 +28,7 @@ Developing water fraction models using [CYGNSS](https://podaac.jpl.nasa.gov/CYGN
 <div style="text-align: justify;" markdown="1">
 Training deep-learning segmentation models (U-Net, DeepLabV3+) for flood mapping using the [MMFlood dataset](https://zenodo.org/records/6534637).
 </div>
-### **• Machine Learning Marathon 2025**
-**[Machine Learning Marathon 2025](https://ml-marathon.wisc.edu)**  
+### **• [Machine Learning Marathon 2025](https://ml-marathon.wisc.edu)** 
 <div style="text-align: justify;" markdown="1">
 Hackathon focused on clustering the BioTrove Dataset for an unsupervised pipeline to recover species, genus, and family structure from images using contrastive embeddings and hierarchical clustering (PyTorch).
 </div>

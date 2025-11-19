@@ -2,9 +2,6 @@
 permalink: /markdown/
 title: "Honors and Awards"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 <div style="font-size: 0.9rem; line-height: 1.3;">

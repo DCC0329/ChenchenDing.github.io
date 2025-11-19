@@ -24,18 +24,18 @@ redirect_from:
 ---
 
 ### **Earlier Research**
-- **Oil Pipeline Emergency Response System Development**, Sinopec 
+- **Oil Pipeline Emergency Response System Development**, <a href="http://www.sinopecgroup.com/group/en/" target="_blank">Sinopec</a> 
 - **Reliability Analysis of NG Pipeline Networks**, PipeChina 
 - **Daily Natural Gas Forecasting**, CUPB (B.S. & M.Eng. theses)
 
 ---
 
 ## Working Experience
-**Petroleum Engineer**, China National Aviation Fuel Group,Beijing  
-*Aug 2022 – Mar 2025*
+**Petroleum Engineer**,<a href="http://111.203.202.45/english/BusinessAtAGlance.jsp?sign=1" target="_blank">China National Aviation Fuel Group</a>
+*2022.8 – 2025.5*
 
-**University Archives & Data Administration Specialist**, CUPB  
-*Sep 2018 – Sep 2020*
+**University Archives & Data Administration Specialist**, <a href="https://www.cup.edu.cn" target="_blank">CUPB</a>  
+*2018.9 – 2020.9*
 
 ---
 

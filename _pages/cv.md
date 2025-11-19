@@ -12,10 +12,8 @@ redirect_from:
 ## Education
 * **M.S. in EOI**, University of Wisconsin–Madison  
   *Expected Graduation: Aug 2026*  
-
 * **M.Eng. in Petroleum Engineering**, China University of Petroleum (Beijing)  
   *2018 – 2022*  
-
 * **B.Eng. in Petroleum Engineering**, China University of Petroleum (Beijing)  
   *2014 – 2018*  
 
@@ -32,6 +30,7 @@ redirect_from:
 
 **Petroleum Engineer**, <a href="http://111.203.202.45/english/BusinessAtAGlance.jsp?sign=1" target="_blank">China National Aviation Fuel Group</a>  
 *2022.8 – 2025.5*
+
 
 **University Data Administration Specialist**, <a href="https://www.cup.edu.cn" target="_blank">CUPB</a>  
 *2018.9 – 2020.9*

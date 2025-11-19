@@ -1,7 +1,7 @@
 ---
 title: '2025 Forest and Wildlife Ecology Retreat'
-date: 2024-10-26
-permalink: /posts/2024/10/fwe-retreat/
+date: 2025-10-25
+permalink: /posts/2025/10/fwe-retreat/
 tags:
   - Forest and Wildlife Ecology 
   - Graduate Life
